@@ -1,0 +1,26 @@
+section {
+    display: block;
+ }
+ body {
+    width: 400px;
+    margin: 100px auto;
+    font-family: sans-serif;
+ }
+ .first div:nth-child(odd) {
+    background-color: #000;
+ }
+ 
+ div {
+    color: #aaaaaa;
+    width: 50px;
+    float: left;
+    height: 50px;
+ }
+ 
+ div {
+    display: block;
+ }
+ .second div:nth-child(even) {
+    background-color: #000;
+ }
+ 
